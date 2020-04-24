@@ -8,10 +8,10 @@ package selenium.automation.constants;
  */
 public class Constants {
 	
-	private static final String SENDER_MAIL_USERNAME = "SenderMailTestUser";
-	private static final String SENDER_MAIL_PASSWORD = "36683668";
-	private static final String RECIPIENT_MAIL_USERNAME = "ReceipientMailTestUser";
-	private static final String RECIPIENT_MAIL_PASSWORD = "36683668";
+	private static final String SENDER_MAIL_USERNAME = "your_sender_mail";
+	private static final String SENDER_MAIL_PASSWORD = "sender_password";
+	private static final String RECIPIENT_MAIL_USERNAME = "your_recipient_mail";
+	private static final String RECIPIENT_MAIL_PASSWORD = "recipient_password";
 	private static final String URL_UNDER_TEST = "https://gmail.com";
 	
 	/**
