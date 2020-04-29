@@ -2,7 +2,7 @@
 JAVA Selenium with TestNG framework
 
 `Project Setup/Requirements:`
-•	Google chrome web browser version 80.
+- Google chrome web browser version 80.
 •	Windows 10 Enterprise
 •	Eclipse neon v2.2
 •	TestNG Framework library installed in Eclipse
